@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'GITSTART',
-    author: 'rishabh-bansal',
-    profile: 'https://github.com/rishabh-bansal',
-    siteUrl: `https://gitstart.tech`
+    title: 'GITSTARTER',
+    author: 'mayokunthefirst',
+    profile: 'https://github.com/mayokunthefirst',
+    siteUrl: `https://techmeetslmu.netlify.com`
   },
   plugins: [
     'gatsby-plugin-react-helmet',
