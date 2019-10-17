@@ -11,13 +11,13 @@ const Header = ({ siteTitle }) => (
         <div className="github-logo">
           <a
             className="github-button"
-            href="https://github.com/rishabh-bansal"
+            href="https://github.com/mayokunthefirst"
             data-size="large"
-            aria-label="Follow @rishabh-bansal on GitHub"
+            aria-label="Follow @mayokunthefirst on GitHub"
           >
             Follow
           </a>
-          <a target="_blank" href="https://github.com/rishabh-bansal/GitStart">
+          <a target="_blank" href="https://github.com/mayokunthefirst/GitStarter">
             <img alt="github-logo" src={github_logo} />
           </a>
         </div>

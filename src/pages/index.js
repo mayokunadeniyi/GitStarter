@@ -13,7 +13,7 @@ const IndexPage = () => (
     
     <h3>Step 1</h3>
     <p>
-      Goto the <a target="_blank" href="https://github.com/mayokunthefirst/GitStarter"> GitHub repository </a> of this project and fork the project to your account. <i className="em em-knife_fork_plate"></i>
+      Go to the <a target="_blank" href="https://github.com/mayokunthefirst/GitStarter"> GitHub repository </a> of this project and fork the project to your account. <i className="em em-knife_fork_plate"></i>
        Click on the fork button on the top right corner of the repository page to do it. Once done, GitHub will take you to the forked copy in your account.
       <Code code="https://github.com/mayokunthefirst/GitStarter"/>
     </p>
@@ -21,7 +21,7 @@ const IndexPage = () => (
     <p>
       Clone the forked repository to your local machine. Click on the big green button saying "Clone or download" and copy the https url of your repository.
       Fire up the terminal (on linux systems ctrl+alt+t. on Windows open the <a target="_blank" href="https://git-scm.com/download/win">Git-bash</a> ) navigate to your desired directory and type the following command. Replace the link with the clone URL of your repository and hit Enter.
-      <Code code="git clone https://github.com/YOUR_USERNAME/GitStart.git"/>
+      <Code code="git clone https://github.com/YOUR_USERNAME/GitStarter.git"/>
     </p>
     <h3>Step 3</h3>
     <p>
