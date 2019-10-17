@@ -2,6 +2,6 @@
 
 # Hello Landmark University Developers :wave:
 
-## Let's help you submit your first Pull Request!
+### Let's help you submit your first Pull Request!
 
-:point_right: Follow the instructions [here](https://gitstart.tech) to get started. 
+Follow the instructions :point_right: [here](https://techmeetslmu.netlify.com) to get started. 
