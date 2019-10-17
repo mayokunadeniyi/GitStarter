@@ -6,8 +6,8 @@
 
 Follow the instructions :point_right: [here](https://techmeetslmu.netlify.com) to get started. 
 
-
-## :wrench: Setting up the project for development
+---
+## Setting up the project for development :wrench: 
 Make sure you have latest version of Node and NPM installed. 
 
 - Install GatsbyCLI globally. Refer the [Gatsby Docs](https://www.gatsbyjs.org/docs/) for information regarding the framework.
@@ -31,3 +31,6 @@ Make sure you have latest version of Node and NPM installed.
   ```
   gatsby build
   ```
+## Deploy
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/mayokunthefirst/GitStarter)
