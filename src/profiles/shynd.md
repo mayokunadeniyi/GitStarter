@@ -1,4 +1,0 @@
----
-username: Shynd
-fullname: Shynd
----

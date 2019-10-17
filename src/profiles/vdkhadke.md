@@ -1,4 +1,0 @@
----
-username: vdkhadke
-fullname: vdkhadke
----

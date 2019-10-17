@@ -1,4 +1,0 @@
----
-username: wmdieter
-fullname: WMD
----

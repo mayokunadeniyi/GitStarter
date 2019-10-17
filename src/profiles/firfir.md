@@ -1,4 +1,0 @@
----
-username: firfircelik
-fullname: Firat
----

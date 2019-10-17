@@ -1,4 +1,0 @@
----
-username: jitihn
-fullname: Jithin
----

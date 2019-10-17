@@ -1,4 +1,0 @@
----
-username: oandrz
-fullname: Andreas
----
